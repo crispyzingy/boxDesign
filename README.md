@@ -1,2 +1,2 @@
 # boxDesign
-Print a box using any size you want!
+Print a box(rectangle) using any size you want!
